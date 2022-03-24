@@ -6,8 +6,10 @@ namespace Ejercicio_I08
     {
         static void Main(string[] args)
         {
-            int altura = 5;
-            
+            int altura;
+            Console.WriteLine("Ingresa la altura del triangulo : ");
+            int.TryParse(Console.ReadLine(), out altura);
+
             for (int i = 0; i < altura; i++)
             {
                 MostrarAstericos(i * 2); //
