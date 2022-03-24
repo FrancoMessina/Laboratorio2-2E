@@ -1,0 +1,16 @@
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\bin\Debug\net5.0\Ejercicio I08.exe
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\bin\Debug\net5.0\Ejercicio I08.deps.json
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\bin\Debug\net5.0\Ejercicio I08.runtimeconfig.json
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\bin\Debug\net5.0\Ejercicio I08.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\bin\Debug\net5.0\Ejercicio I08.dll
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\bin\Debug\net5.0\Ejercicio I08.pdb
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.AssemblyInfo.cs
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.dll
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\refint\Ejercicio I08.dll
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.pdb
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\Ejercicio I08.genruntimeconfig.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Primera Unidad\Ejercicio I08\Ejercicio I08\obj\Debug\net5.0\ref\Ejercicio I08.dll
