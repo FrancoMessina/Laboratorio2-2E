@@ -1,0 +1,19 @@
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\Ejercicio I07.exe
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\Ejercicio I07.deps.json
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\Ejercicio I07.runtimeconfig.json
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\Ejercicio I07.runtimeconfig.dev.json
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\Ejercicio I07.dll
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\Ejercicio I07.pdb
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\LogicaNegocio.dll
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\bin\Debug\net5.0\LogicaNegocio.pdb
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.AssemblyInfo.cs
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.csproj.CopyComplete
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.dll
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\refint\Ejercicio I07.dll
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.pdb
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\Ejercicio I07.genruntimeconfig.cache
+C:\Users\franc\Desktop\Laboratorio2-2E\Segunda Unidad\Ejercicio I07\Ejercicio I07\obj\Debug\net5.0\ref\Ejercicio I07.dll

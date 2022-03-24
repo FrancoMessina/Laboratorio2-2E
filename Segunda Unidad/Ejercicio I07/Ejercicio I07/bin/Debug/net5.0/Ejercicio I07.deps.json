@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I07/1.0.0": {
+        "dependencies": {
+          "LogicaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I07.dll": {}
+        }
+      },
+      "LogicaNegocio/1.0.0": {
+        "runtime": {
+          "LogicaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
