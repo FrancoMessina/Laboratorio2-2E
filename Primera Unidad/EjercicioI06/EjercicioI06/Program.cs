@@ -14,7 +14,6 @@ namespace EjercicioI06
 
                 Pedirle al usuario un año de inicio y otro de fin y mostrar todos los años bisiestos en ese rango.
              */
-            Console.WriteLine(VerificarBisiesto(2024));
             List<int> aniosBisiestos;
             Console.WriteLine("Ingresa año de inicio : ");
             bool esNumero = int.TryParse(Console.ReadLine(), out int fechaInicio);
@@ -38,8 +37,14 @@ namespace EjercicioI06
         public static bool VerificarBisiesto(int numero)
         {
             bool esBisiesto = false;
-            if (numero % 4 == 0 || (numero % 100 == 0 && numero % 400 == 0))
-                esBisiesto = true;
+            if (numero % 4 == 0)
+            {
+                if (numero % 100 != 0 || numero % 400 == 0)
+                {
+                    esBisiesto = true;
+                }
+                
+            }              
             return esBisiesto;
         }
         public static List<int> CargarAniosBisiestos(int inicio, int fin)
