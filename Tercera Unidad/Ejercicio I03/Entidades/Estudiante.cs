@@ -35,7 +35,7 @@ namespace Entidades
         }
         public double CalcularNotaFinal()
         {
-            if(this.notaPrimerParcial > 3 && this.notaSegundoParcial > 4)
+            if(this.notaPrimerParcial > 3 && this.notaSegundoParcial > 3)
                 return random.Next(6,11);
             return -1;
         }

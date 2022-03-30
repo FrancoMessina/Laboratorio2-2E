@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\Desktop\\Clase 3\\Ejercicio I03\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Tercera Unidad\\Ejercicio I03\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\Desktop\\Clase 3\\Ejercicio I03\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Tercera Unidad\\Ejercicio I03\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\Desktop\\Clase 3\\Ejercicio I03\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Tercera Unidad\\Ejercicio I03\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\franc\\Desktop\\Clase 3\\Ejercicio I03\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Tercera Unidad\\Ejercicio I03\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\Desktop\\Clase 3\\Ejercicio I03\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Tercera Unidad\\Ejercicio I03\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
