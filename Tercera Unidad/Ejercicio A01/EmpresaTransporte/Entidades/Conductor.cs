@@ -12,13 +12,21 @@ namespace Entidades
             SetNombre(nombre);
             CargarKilometrosDefault();
         }
+        public Conductor()
+        { 
+           
+        }
         public string GetNombre()
         {
             return this.nombre;
         }
-        public int[] GetKilometrosPorDia()
+        public int[] GetKilometros()
         {
             return this.kilometrosPorDia;
+        }
+        public int GetKilometros(int dia)
+        {
+            return this.kilometrosPorDia[dia - 1];
         }
         public void SetNombre(string nombre)
         {
@@ -63,10 +71,10 @@ namespace Entidades
             }
             return false;
         }
-        public string MostrarConductor()
+        public string MostrarDatosConductor()
         {
             StringBuilder datosConductor = new StringBuilder();
-            int[] listaKilometros = GetKilometrosPorDia();
+            int[] listaKilometros = GetKilometros();
             datosConductor.AppendLine($"Nombre : {this.GetNombre()}");
             for (int i = 0; i < listaKilometros.Length; i++)
             {
@@ -74,6 +82,48 @@ namespace Entidades
             }
             return datosConductor.ToString();
         }
-        
+        public static int CalcularKilometrosTotales(Conductor conductor)
+        {
+            int acumuladorKilometros = 0;
+            int[] kilometrosDelConductor = conductor.GetKilometros();
+            for (int i = 0; i < kilometrosDelConductor.Length; i++)
+            {
+                acumuladorKilometros += kilometrosDelConductor[i];
+            }
+            return acumuladorKilometros;
+        }
+        public static Conductor CalcularConductorMaximoKilometros(Conductor[] listaConductores)
+        {
+            Conductor conductorMaximoKilometros = new Conductor();
+            int maximoKilometros = int.MinValue;
+            int kilometrosConductor;
+            for(int i = 0; i < listaConductores.Length; i++)
+            {
+                kilometrosConductor = CalcularKilometrosTotales(listaConductores[i]);
+                if (kilometrosConductor > maximoKilometros)
+                {
+                    maximoKilometros = kilometrosConductor;
+                    conductorMaximoKilometros = listaConductores[i];
+                }
+            }
+            return conductorMaximoKilometros;
+        }
+        public static Conductor CalcularConductorMaximoKilometros(Conductor[] listaConductores, int dia)
+        {
+            Conductor conductorMaximoKilometros = new Conductor();
+            int maximoKilometros = int.MinValue;
+            int kilometrosConductor;
+            for (int i = 0; i < listaConductores.Length; i++)
+            {
+                kilometrosConductor = listaConductores[i].GetKilometros(dia);
+                if (kilometrosConductor > maximoKilometros)
+                {
+                    maximoKilometros = kilometrosConductor;
+                    conductorMaximoKilometros = listaConductores[i];
+                }
+            }
+            return conductorMaximoKilometros;
+        }
+
     }
 }
