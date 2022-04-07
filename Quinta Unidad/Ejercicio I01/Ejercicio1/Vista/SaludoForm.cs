@@ -18,7 +18,11 @@ namespace Vista
         }
         public frmSaludo(string nombre, string apellido):this()
         {
-            this.lblSaludo.Text = $"Soy {nombre} {apellido}";
+            this.lblSaludo.Text = $"Soy {nombre} {apellido} ";
+        }
+        public frmSaludo(string nombre, string apellido, string materia) : this(nombre,apellido)
+        {
+            this.lblSaludo.Text += $"y mi materia favorita es {materia}.";
         }
     }
 }

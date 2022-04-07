@@ -33,62 +33,98 @@
             this.lblApellido = new System.Windows.Forms.Label();
             this.txtApellido = new System.Windows.Forms.TextBox();
             this.btnSaludar = new System.Windows.Forms.Button();
+            this.cmbMateria = new System.Windows.Forms.ComboBox();
+            this.lblMateriaFavorita = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(149, 61);
+            this.txtNombre.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.txtNombre.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtNombre.Location = new System.Drawing.Point(31, 67);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(100, 23);
             this.txtNombre.TabIndex = 0;
+            this.txtNombre.Tag = "Nombre";
             // 
             // lblNombre
             // 
             this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(59, 69);
+            this.lblNombre.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblNombre.Location = new System.Drawing.Point(31, 39);
             this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(51, 15);
+            this.lblNombre.Size = new System.Drawing.Size(53, 15);
             this.lblNombre.TabIndex = 1;
             this.lblNombre.Text = "Nombre";
             // 
             // lblApellido
             // 
             this.lblApellido.AutoSize = true;
-            this.lblApellido.Location = new System.Drawing.Point(59, 122);
+            this.lblApellido.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblApellido.Location = new System.Drawing.Point(202, 39);
             this.lblApellido.Name = "lblApellido";
-            this.lblApellido.Size = new System.Drawing.Size(51, 15);
+            this.lblApellido.Size = new System.Drawing.Size(52, 15);
             this.lblApellido.TabIndex = 3;
             this.lblApellido.Text = "Apellido";
             // 
             // txtApellido
             // 
-            this.txtApellido.Location = new System.Drawing.Point(149, 114);
+            this.txtApellido.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.txtApellido.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtApellido.Location = new System.Drawing.Point(202, 67);
             this.txtApellido.Name = "txtApellido";
             this.txtApellido.Size = new System.Drawing.Size(100, 23);
             this.txtApellido.TabIndex = 2;
+            this.txtApellido.Tag = "Apellido";
             // 
             // btnSaludar
             // 
-            this.btnSaludar.Location = new System.Drawing.Point(149, 171);
+            this.btnSaludar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnSaludar.Font = new System.Drawing.Font("Times New Roman", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
+            this.btnSaludar.Location = new System.Drawing.Point(205, 214);
             this.btnSaludar.Name = "btnSaludar";
-            this.btnSaludar.Size = new System.Drawing.Size(100, 50);
+            this.btnSaludar.Size = new System.Drawing.Size(148, 27);
             this.btnSaludar.TabIndex = 4;
             this.btnSaludar.Text = "Saludar";
             this.btnSaludar.UseVisualStyleBackColor = true;
             this.btnSaludar.Click += new System.EventHandler(this.btnSaludar_Click);
+            // 
+            // cmbMateria
+            // 
+            this.cmbMateria.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbMateria.FormattingEnabled = true;
+            this.cmbMateria.Location = new System.Drawing.Point(34, 172);
+            this.cmbMateria.Name = "cmbMateria";
+            this.cmbMateria.Size = new System.Drawing.Size(319, 23);
+            this.cmbMateria.TabIndex = 5;
+            // 
+            // lblMateriaFavorita
+            // 
+            this.lblMateriaFavorita.AutoSize = true;
+            this.lblMateriaFavorita.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblMateriaFavorita.Location = new System.Drawing.Point(34, 136);
+            this.lblMateriaFavorita.Name = "lblMateriaFavorita";
+            this.lblMateriaFavorita.Size = new System.Drawing.Size(98, 15);
+            this.lblMateriaFavorita.TabIndex = 6;
+            this.lblMateriaFavorita.Text = "Materia Favorita";
             // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(362, 253);
+            this.Controls.Add(this.lblMateriaFavorita);
+            this.Controls.Add(this.cmbMateria);
             this.Controls.Add(this.btnSaludar);
             this.Controls.Add(this.lblApellido);
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.txtNombre);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frmPrincipal";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "¡Hola, Windows Forms!";
+            this.Load += new System.EventHandler(this.frmPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -101,5 +137,7 @@
         private System.Windows.Forms.Label lblApellido;
         private System.Windows.Forms.TextBox txtApellido;
         private System.Windows.Forms.Button btnSaludar;
+        private System.Windows.Forms.ComboBox cmbMateria;
+        private System.Windows.Forms.Label lblMateriaFavorita;
     }
 }

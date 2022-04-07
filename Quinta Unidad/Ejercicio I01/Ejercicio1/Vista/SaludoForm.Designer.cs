@@ -36,7 +36,7 @@
             // 
             this.lblMensajeBienvenidad.AutoSize = true;
             this.lblMensajeBienvenidad.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblMensajeBienvenidad.Location = new System.Drawing.Point(17, 63);
+            this.lblMensajeBienvenidad.Location = new System.Drawing.Point(17, 24);
             this.lblMensajeBienvenidad.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblMensajeBienvenidad.Name = "lblMensajeBienvenidad";
             this.lblMensajeBienvenidad.Size = new System.Drawing.Size(280, 32);
@@ -46,23 +46,26 @@
             // lblSaludo
             // 
             this.lblSaludo.AutoSize = true;
-            this.lblSaludo.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblSaludo.Location = new System.Drawing.Point(17, 137);
+            this.lblSaludo.Font = new System.Drawing.Font("Tw Cen MT Condensed Extra Bold", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
+            this.lblSaludo.Location = new System.Drawing.Point(34, 58);
             this.lblSaludo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSaludo.Name = "lblSaludo";
-            this.lblSaludo.Size = new System.Drawing.Size(0, 32);
+            this.lblSaludo.Size = new System.Drawing.Size(0, 20);
             this.lblSaludo.TabIndex = 1;
             // 
             // frmSaludo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(543, 328);
+            this.ClientSize = new System.Drawing.Size(444, 116);
             this.Controls.Add(this.lblSaludo);
             this.Controls.Add(this.lblMensajeBienvenidad);
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.MaximizeBox = false;
             this.Name = "frmSaludo";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Saludo";
             this.ResumeLayout(false);
             this.PerformLayout();
