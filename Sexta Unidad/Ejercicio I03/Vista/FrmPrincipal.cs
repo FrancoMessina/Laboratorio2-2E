@@ -20,7 +20,7 @@ namespace Vista
         private void btnCalcular_Click(object sender, EventArgs e)
         {
             Dictionary<string, int> palabras = new Dictionary<string, int>();
-            List<string> list = rtbMensaje.Text.Split(' ').ToList();
+            List<string> list = rtbMensaje.Text.Split(' ', StringSplitOptions.RemoveEmptyEntries).ToList();
             int contador = 0;
             int maximo;
             StringBuilder mensaje = new StringBuilder();
@@ -40,6 +40,7 @@ namespace Vista
             do 
             {
                 maximo = palabras.Values.Max();
+                
                 foreach (KeyValuePair<string, int> palabra in palabras)
                 {
                     
