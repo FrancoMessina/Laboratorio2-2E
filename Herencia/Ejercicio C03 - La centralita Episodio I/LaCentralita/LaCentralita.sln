@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{D91782A7-2DB4-4038-8F75-03529CC74EE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCentralita", "TestCentralita\TestCentralita.csproj", "{461A7320-8F52-47FC-BD02-18C0A346E064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{6EC522CA-03FF-4FF5-B668-9D946AE8AD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91782A7-2DB4-4038-8F75-03529CC74EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91782A7-2DB4-4038-8F75-03529CC74EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91782A7-2DB4-4038-8F75-03529CC74EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91782A7-2DB4-4038-8F75-03529CC74EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461A7320-8F52-47FC-BD02-18C0A346E064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461A7320-8F52-47FC-BD02-18C0A346E064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461A7320-8F52-47FC-BD02-18C0A346E064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461A7320-8F52-47FC-BD02-18C0A346E064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC522CA-03FF-4FF5-B668-9D946AE8AD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC522CA-03FF-4FF5-B668-9D946AE8AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC522CA-03FF-4FF5-B668-9D946AE8AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC522CA-03FF-4FF5-B668-9D946AE8AD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34973417-D76B-4F5F-BD2A-55E0BAAC5379}
+	EndGlobalSection
+EndGlobal

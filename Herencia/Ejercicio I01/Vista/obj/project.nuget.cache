@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9QWICa6ETCFikFqn1NK4LcW5peIdjmOuKFNeBc8N1qK7AvbH5hWEIT99sQMY32GtzkKXhvg+h3dlstxHKtKag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio I01\\Vista\\Vista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
