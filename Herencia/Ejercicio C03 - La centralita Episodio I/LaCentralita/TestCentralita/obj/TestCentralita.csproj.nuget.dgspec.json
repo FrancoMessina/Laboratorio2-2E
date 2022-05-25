@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj": {}
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,18 +54,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj": {
+    "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj",
         "projectName": "TestCentralita",
-        "projectPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj",
+        "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\TestCentralita.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\obj\\",
+        "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\TestCentralita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Octava Unidad\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj"
+              "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Herencia\\Ejercicio C03 - La centralita Episodio I\\LaCentralita\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -112,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

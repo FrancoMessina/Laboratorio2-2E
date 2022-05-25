@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Quinta Unidad\\Ejercicio I02\\Registrate\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Windows Forms\\Ejercicio I02\\Registrate\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Quinta Unidad\\Ejercicio I02\\Registrate\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Windows Forms\\Ejercicio I02\\Registrate\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\franc\\Desktop\\Laboratorio2-2E\\Quinta Unidad\\Ejercicio I02\\Registrate\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Laboratorio2-2E\\Windows Forms\\Ejercicio I02\\Registrate\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
